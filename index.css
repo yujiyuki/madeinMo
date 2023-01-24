@@ -1,0 +1,13 @@
+body {
+  font-family: "Solitreo", cursive;
+  font-family: "Zen Maru Gothic", sans-serif;
+}
+.main-title {
+  text-align: center;
+}
+.cont {
+  text-align: center;
+}
+.img {
+  width: 150px;
+}
